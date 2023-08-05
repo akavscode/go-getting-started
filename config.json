@@ -1,10 +1,10 @@
 {
-	"log": {
-		"access": "none",
-		"error": "none",
-		"loglevel": "none",
-		"dnsLog": false
-	},
+    "log": {
+        "access": "none",
+        "error": "none",
+        "loglevel": "none",
+        "dnsLog": false
+    },
     "inbounds": [
         {
             "port": $PORT,
