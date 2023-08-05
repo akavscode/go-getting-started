@@ -1,1 +1,1 @@
-web: ./bin/go-getting-started
+web: httpd run config.json

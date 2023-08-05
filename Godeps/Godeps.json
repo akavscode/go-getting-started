@@ -1,5 +1,5 @@
 {
     "ImportPath": "https://github.com/akavscode/go-getting-started",
-    "GoVersion": "go1.9",
+    "GoVersion": "go1.19",
     "Deps": []
 }

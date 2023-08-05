@@ -1,5 +1,5 @@
 {
-    "name": "go",
+    "name": "go-getting-started",
     "description": "test on Heroku.",
     "keywords": ["test"],
     "env": {
