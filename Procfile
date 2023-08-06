@@ -1,1 +1,1 @@
-web: httpd run config.json
+web: go run main.go
